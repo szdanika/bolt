@@ -6,4 +6,4 @@
 ** bolt **
 _bolt _
 _ bolt
-[Link](http://google.com)
+[google](http://google.com)
